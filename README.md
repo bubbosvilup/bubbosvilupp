@@ -17,7 +17,6 @@
 
 - 🛰️ [SIGNALFORGE](https://github.com/bubbosvilup/project-SIGNALFORGE) – Empty commits, full intent  
 - 🧾 RegexForger (WIP) – Visual regex builder with dynamic feedback  
-- ⏱ Pomodoro Clock – Minimal, animated, quiet productivity
 
 ---
 
